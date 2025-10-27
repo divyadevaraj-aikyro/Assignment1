@@ -24,7 +24,7 @@ No additional dependencies required - uses vanilla HTML, CSS, and JavaScript.
 ### 2. Run the Application
 
 ```bash
-cd "weather dashboard"
+cd "note-taking-assignment"
 python3 -m http.server 8000
 ```
 
@@ -79,7 +79,6 @@ This application is designed to help you practice:
 1. Create, edit, and delete notes
 2. Test search and filter functionality
 3. Verify theme switching and persistence
-4. Test mobile responsiveness
 5. Check error handling for edge cases
 
 
@@ -138,7 +137,7 @@ Your application should be able to:
 ## 📁 File Structure
 
 ```
-weather dashboard/
+note-taking-assignment/
 ├── index.html      # HTML structure
 ├── style.css       # CSS styles
 ├── script.js       # JavaScript logic
