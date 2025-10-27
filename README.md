@@ -82,39 +82,8 @@ This application is designed to help you practice:
 4. Test mobile responsiveness
 5. Check error handling for edge cases
 
-## 🛠️ Using Claude Code for Debugging
 
-### Helpful Debugging Prompts:
 
-1. **JavaScript Syntax Errors**:
-   ```
-   "check the javascript syntax in script.js and identify any syntax errors or missing initialization code"
-   ```
-
-2. **Modal Issues**:
-   ```
-   "the modals in my note app are not working correctly. help me debug the modal display logic in both the CSS and JavaScript"
-   ```
-
-3. **CSS Display Problems**:
-   ```
-   "the note cards are not showing up in my app. check the CSS for .note-card and related display properties"
-   ```
-
-4. **localStorage Issues**:
-   ```
-   "the dark mode theme is not persisting after page refresh. help me debug the theme saving and loading functionality"
-   ```
-
-5. **Functionality Problems**:
-   ```
-   "I can't create or edit notes properly. help me debug the saveNote method and related functionality"
-   ```
-
-6. **Step-by-Step Debugging**:
-   ```
-   "walk me through debugging this note taking app systematically. start with the most critical issues and work through them one by one"
-   ```
 
 ## ✅ Success Criteria
 
@@ -185,10 +154,6 @@ weather dashboard/
 - `noteApp` - Check if app object exists
 - `noteApp.notes` - View current notes array
 
-**Claude Code Debugging**:
-- "Check for JavaScript errors in my code"
-- "Help me fix the modal functionality"
-- "Why are my note cards not displaying?"
-- "Debug the theme switching functionality"
+
 
 Good luck, and enjoy the debugging process! 🐛➡️✅
